@@ -1,1 +1,1 @@
-print("Welcome to Data Science by Rohit")
+print("Personal JAVA practice")
