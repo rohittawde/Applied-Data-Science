@@ -1,1 +1,0 @@
-print("Personal JAVA practice")
